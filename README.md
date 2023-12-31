@@ -6,6 +6,8 @@
 
 Este projeto foi desenvolvido com a finalidade de gerar frases a partir de um dos temas disponiveis
 
+Veja como ficou legal esse projeto => [DevFrases](https://phrase-generator-rafaelvelofuri.vercel.app/)
+
 ### 🔨 Guia de instalação
 
 Siga as etapas abaixo para configurar o projeto em seu ambiente local:
